@@ -13,9 +13,9 @@ const nextConfig: NextConfig = {
     ],
   },
   
-  // 3. (선택사항) 저장소 이름이 'my-portfolio'라면 아래 주석을 해제하고 적어주세요.
-  // 만약 주소가 '사용자이름.github.io' 자체라면 이 설정은 필요 없습니다.
-  // basePath: '/my-portfolio',
+  // 3. 저장소 이름이 '-1'이므로 basePath를 설정합니다.
+  // 이 설정을 해야 https://lwlovth.github.io/-1/ 주소에서 파일들을 제대로 불러옵니다.
+  basePath: '/-1', 
 };
 
 export default nextConfig;
