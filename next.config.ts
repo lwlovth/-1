@@ -15,7 +15,7 @@ const nextConfig: NextConfig = {
   
   // 3. 저장소 이름이 '-1'이므로 basePath를 설정합니다.
   // 이 설정을 해야 https://lwlovth.github.io/-1/ 주소에서 파일들을 제대로 불러옵니다.
-  basePath: '/-1', 
+  basePath: '/project1', 
 };
 
 export default nextConfig;
