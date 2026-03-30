@@ -43,7 +43,7 @@ export default function CTA() {
 
           {/* CTA button */}
           <a
-            href="mailto:hello@yjdev.com"
+            href="mailto:hello@THdev.com"
             className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-white text-brand-primary font-black text-body-lg shadow-glow-lg hover:shadow-glow-lg hover:-translate-y-1 transition-all duration-200 active:translate-y-0"
           >
             → 무료 30분 상담 신청
