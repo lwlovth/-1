@@ -22,10 +22,10 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#" className="flex items-center gap-2">
           <span className="w-8 h-8 rounded-xl bg-brand-gradient flex items-center justify-center text-white font-black text-sm">
-            Y
+            TH
           </span>
           <span className="font-bold text-ink-primary text-body-md tracking-tight hidden sm:block">
-            YJ<span className="text-brand-primary">.</span>dev
+            TH<span className="text-brand-primary">.</span>dev
           </span>
         </a>
 
