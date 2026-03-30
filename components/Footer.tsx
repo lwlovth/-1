@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="section-inner flex flex-col sm:flex-row items-center justify-between gap-4">
         <div className="flex items-center gap-2">
           <span className="w-7 h-7 rounded-lg bg-brand-gradient flex items-center justify-center text-white font-black text-xs">
-            Y
+            TH
           </span>
           <span className="text-body-sm font-bold text-ink-primary">
             TH<span className="text-brand-primary">.</span>dev
