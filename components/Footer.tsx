@@ -7,12 +7,12 @@ export default function Footer() {
             Y
           </span>
           <span className="text-body-sm font-bold text-ink-primary">
-            YJ<span className="text-brand-primary">.</span>dev
+            TH<span className="text-brand-primary">.</span>dev
           </span>
         </div>
 
         <p className="text-body-sm text-ink-muted text-center">
-          © 2025 YJ.dev — 한·일·영 3개 국어 웹 솔루션
+          © 2025 TH.dev — 한·일·영 3개 국어 웹 솔루션
         </p>
 
         <div className="flex items-center gap-4 text-body-sm text-ink-muted">
